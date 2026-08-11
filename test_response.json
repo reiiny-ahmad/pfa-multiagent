@@ -1,0 +1,229 @@
+{
+  "status": "success",
+  "query": "Women's Africa Cup of Nations in Morocco",
+  "result": {
+    "sujet": {
+      "titre": "Morocco Makes History at WAFCON 2024: Les Lionnes de l'Atlas Reach the Final",
+      "type": "texte"
+    },
+    "resume_executif": "The Women's Africa Cup of Nations (WAFCON) 2024 was hosted by Morocco, marking the country's second time organizing the tournament. The competition featured 12 national teams competing across venues in Rabat, Casablanca, and Fès. Morocco's national women's team, nicknamed 'Les Lionnes de l'Atlas', reached the final for the first time in their history.",
+    "faits_cles": [
+      "Morocco hosted WAFCON for the second time.",
+      "12 national teams participated across 3 host cities: Rabat, Casablanca and Fès.",
+      "Morocco's women's team reached the WAFCON final for the first time in history.",
+      "Nigeria's Super Falcons were eliminated in the semi-finals.",
+      "The tournament also served as a qualifier for the 2024 Paris Olympics.",
+      "Fatima Tagnaout won the Golden Boot with 5 goals."
+    ],
+    "statistiques": {
+      "equipes": 12,
+      "villes_hotes": 3,
+      "matchs": 30,
+      "duree": "3 semaines",
+      "spectateurs_finale": 78000,
+      "prix_moyen_spectateurs_match": 22400,
+      "prize_money": "$2.5 million USD",
+      "buts_tagnaout": 5
+    },
+    "chronologie": [
+      {
+        "date": "2023-07-01",
+        "evenement": "CAF confirms Morocco as host nation for WAFCON 2024"
+      },
+      {
+        "date": "2024-04-15",
+        "evenement": "Draw ceremony held in Rabat"
+      },
+      {
+        "date": "2024-07-04",
+        "evenement": "Tournament kick-off — Morocco vs Senegal"
+      },
+      {
+        "date": "2024-07-20",
+        "evenement": "Semi-finals — Morocco defeats Nigeria 2-1"
+      },
+      {
+        "date": "2024-07-24",
+        "evenement": "Final — Morocco vs South Africa at Stade Mohammed V"
+      }
+    ],
+    "angle_editorial": "Morocco's historic run to the WAFCON 2024 final on home soil represents a major moment for women's football in North Africa. The story targets sports fans, women's football supporters and a Moroccan audience proud of national achievement.",
+    "angles_approche": [
+      "Historic milestone — Morocco's first-ever WAFCON final",
+      "The rise of women's football in Africa",
+      "How Morocco built a competitive women's team",
+      "The social impact of women's football in Morocco"
+    ],
+    "plan_reportage": [
+      "Introduction: Morocco as host and finalist",
+      "Tournament Overview: Results, performances and records",
+      "Morocco's Journey: Match-by-match analysis",
+      "Star Profile: Fatima Tagnaout",
+      "Infrastructure and Organization",
+      "Women's Football Landscape in Africa",
+      "Road to Paris 2024 Olympics",
+      "Conclusion and Outlook"
+    ],
+    "article": {
+      "titre": "Morocco Makes History at WAFCON 2024: Les Lionnes de l'Atlas Reach the Final",
+      "contenu": "In a tournament that will be remembered as a turning point for African women's football, Morocco's national women's team reached the final of the Women's Africa Cup of Nations 2024, hosted on home soil, captivating a nation and rewriting the history books of Moroccan sport."
+    },
+    "scripts_video": {
+      "30_secondes": [
+        {
+          "duree": "0-3s",
+          "shot": "Aerial view of packed Stade Mohammed V, Casablanca at night",
+          "narration": "July 2024. Morocco. A nation holds its breath."
+        },
+        {
+          "duree": "3-8s",
+          "shot": "Close-up of Fatima Tagnaout celebrating a goal",
+          "narration": "Les Lionnes de l'Atlas make history — reaching the WAFCON final for the first time."
+        },
+        {
+          "duree": "8-15s",
+          "shot": "Montage of goals, saves, fan reactions and team celebrations",
+          "narration": "Five goals. Record crowds. 78,000 fans. A generation inspired."
+        },
+        {
+          "duree": "15-22s",
+          "shot": "Tagnaout holding the Golden Boot",
+          "narration": "Fatima Tagnaout — Golden Boot winner and the face of a new era."
+        },
+        {
+          "duree": "22-28s",
+          "shot": "Wide shot of stadium and Moroccan flags",
+          "narration": "Women's football in Africa will never be the same again."
+        },
+        {
+          "duree": "28-30s",
+          "shot": "SNRT logo and WAFCON 2024 graphic",
+          "narration": "SNRT — With you, every moment."
+        }
+      ],
+      "60_secondes": [
+        {
+          "duree": "0-5s",
+          "shot": "Aerial view of Casablanca at sunset",
+          "narration": "Morocco, July 2024. The stage is set for history."
+        },
+        {
+          "duree": "5-12s",
+          "shot": "Tournament opening ceremony highlights",
+          "narration": "Twelve nations. Three cities. One dream. The Women's Africa Cup of Nations 2024 begins."
+        },
+        {
+          "duree": "12-20s",
+          "shot": "Morocco group stage highlights",
+          "narration": "Les Lionnes de l'Atlas swept through the group stage unbeaten, captivating a nation."
+        },
+        {
+          "duree": "20-30s",
+          "shot": "Semi-final against Nigeria",
+          "narration": "Morocco 2, Nigeria 1. The 11-time champions eliminated."
+        },
+        {
+          "duree": "30-40s",
+          "shot": "Tagnaout goal montage and Golden Boot ceremony",
+          "narration": "Fatima Tagnaout — five goals, one Golden Boot, and a place in history."
+        },
+        {
+          "duree": "40-50s",
+          "shot": "Stadium crowd and Moroccan flags",
+          "narration": "Seventy-eight thousand voices. A record. A statement."
+        },
+        {
+          "duree": "50-57s",
+          "shot": "Coach and players celebrating",
+          "narration": "Three years of work. One historic night. Les Lionnes de l'Atlas — the pride of a nation."
+        },
+        {
+          "duree": "57-60s",
+          "shot": "SNRT logo",
+          "narration": "SNRT — Morocco's story, told with passion."
+        }
+      ]
+    },
+    "contenus_reseaux_sociaux": {
+      "facebook_x": {
+        "hook": "HISTOIRE ! Les Lionnes de l'Atlas en finale du WAFCON 2024",
+        "content": "Pour la première fois de leur histoire, les Marocaines atteignent la finale de la Coupe d'Afrique des Nations féminine.",
+        "cta": "Partagez si vous êtes fiers !",
+        "hashtags": [
+          "#WAFCON2024",
+          "#LionnesAtlas",
+          "#MarocFéminin"
+        ]
+      },
+      "instagram": {
+        "hook": "She made history tonight",
+        "content": "Fatima Tagnaout. 5 goals. Golden Boot. WAFCON 2024 MVP.",
+        "cta": "Tag someone who needs to see this"
+      },
+      "tiktok_reels": {
+        "hook": "3 years ago nobody knew her name. Tonight she's Africa's best player",
+        "content": "Tagnaout's journey from unknown player to WAFCON Golden Boot winner.",
+        "cta": "Follow for full WAFCON highlights"
+      }
+    },
+    "hashtags_suggeres": [
+      "#WAFCON2024",
+      "#LionnesAtlas",
+      "#MarocFéminin",
+      "#FootballFéminin",
+      "#MoroccoWomen",
+      "#CAFWomen",
+      "#Tagnaout",
+      "#SNRT",
+      "#SportMaroc",
+      "#AfriqueFootball",
+      "#WomenInSport",
+      "#CoupeAfrique2024",
+      "#LesLionnes",
+      "#FRMF",
+      "#Paris2024"
+    ],
+    "questions_interview": [
+      "What tactical adjustments were key to defeating Nigeria in the semi-final?",
+      "How has your journey from club football prepared you for this moment?",
+      "What investments will the FRMF make in women's football?",
+      "What does seeing the Moroccan women's team in the final mean to you?",
+      "How does WAFCON 2024 compare to previous editions?",
+      "What message do you have for young girls in Morocco who dream of playing football?"
+    ],
+    "notes_production": {
+      "transitions": "Fast cuts for goal montages and slow dissolves for emotional moments",
+      "music": "Traditional Moroccan percussion combined with modern electronic and orchestral elements",
+      "graphics": "Player name cards and statistical pop-ups",
+      "color_grading": "Warm golden tones for celebration scenes",
+      "text_style": "Bold Arabic/French bilingual lower-thirds"
+    },
+    "personnalites_cles": [
+      "Reynald Pedros",
+      "Fatima Tagnaout",
+      "Patrice Motsepe",
+      "Fouzi Lekjaa"
+    ],
+    "calendrier_publication": [
+      "Day 1: Live match report and social media clips",
+      "Day 2: Long-form analysis and player interviews",
+      "Day 3: Documentary-style feature and infographics",
+      "Week 2: In-depth investigation on women's football growth in Africa"
+    ],
+    "sources": [
+      "CAF Official",
+      "FIFA Women's Football",
+      "L'Équipe Africa",
+      "Hespress Sport",
+      "Médias24"
+    ]
+  },
+  "conversation_id": 4,
+  "agents_used": [
+    "research",
+    "planning",
+    "writing",
+    "production"
+  ],
+  "telegram_sent": true
+}

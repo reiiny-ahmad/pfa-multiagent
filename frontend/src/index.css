@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-manus-black text-white antialiased;
+  }
+}
+
+@layer components {
+  .dot-grid {
+    background-image: radial-gradient(rgba(255, 255, 255, 0.08) 1px, transparent 1px);
+    background-size: 24px 24px;
+  }
+  
+  .btn-primary {
+    @apply bg-gradient-to-r from-snrt-purple to-snrt-indigo hover:opacity-90 transition-opacity;
+  }
+  
+  .sidebar-item.active {
+    @apply bg-white/10 text-white;
+  }
+}

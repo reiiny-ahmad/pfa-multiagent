@@ -1,0 +1,52 @@
+version: '3.8'
+
+services:
+  backend:
+    build: ./backend
+    container_name: pfa_backend
+    ports:
+      - "8000:8000"
+    volumes:
+      # La base vit dans /app/data (cf. DATABASE_URL) — on monte le dossier,
+      # pas le fichier, sinon Docker crée un répertoire vide à la place.
+      - ./backend/data:/app/data
+    env_file:
+      - ./backend/.env
+      - ./.env
+    environment:
+      - API_BASE_URL=http://backend:8000
+    networks:
+      - pfa_network
+
+  telegram-bot:
+    build: ./backend
+    container_name: pfa_telegram_bot
+    command: python -m app.telegram_bot
+    env_file:
+      - ./backend/.env
+      - ./.env  # TELEGRAM_TOKEN, OPENAI_API_KEY
+    environment:
+      - API_BASE_URL=http://backend:8000
+    depends_on:
+      - backend
+    restart: unless-stopped
+    networks:
+      - pfa_network
+
+  frontend:
+    build: ./frontend
+    container_name: pfa_frontend
+    ports:
+      - "5173:5173"
+    volumes:
+      - /app/node_modules
+    env_file:
+      - ./frontend/.env.docker
+    depends_on:
+      - backend
+    networks:
+      - pfa_network
+
+networks:
+  pfa_network:
+    driver: bridge
