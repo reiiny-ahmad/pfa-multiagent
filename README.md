@@ -1,4 +1,4 @@
-# 🤖 PFA Multi-Agents — AI Web Interface
+# 🤖 PFA Multi-Agents — AI Web Interface - yl
 
 End-of-year project (PFA) completed during an internship at SNRT.  
 Development of a web interface connected to a multi-agent system based on artificial intelligence.
